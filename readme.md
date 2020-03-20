@@ -12,7 +12,9 @@ Help can be found online to get that done.
 
 After uploading the code into Nodemcu (ESP12) and powered on, turn on the wifi of your mobile phone or pc as the case maybe. You are likely to see a wifi with the name 'AkoredeAP', connect to it and its password is 'ak12345'. 
 Load your browsing and type this in the address bar: 192.168.4.1
+
 The circuit image was gotten from "Great Projects" from "arduino-projects-free.blogspot.com" for the circuit.
+
 Thanks.
 
 My contact:
